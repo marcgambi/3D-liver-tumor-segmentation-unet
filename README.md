@@ -92,3 +92,9 @@ The project was developed using Python, PyTorch, MONAI, and medical imaging libr
 ## Notes
 
 This project was developed for educational and research purposes in the biomedical engineering and medical imaging field.
+
+---
+
+## Dataset
+
+The original medical imaging dataset is not included in this repository due to privacy and institutional data protection restrictions.
